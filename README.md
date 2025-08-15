@@ -5,3 +5,8 @@ The overall coordination is performed by the Context, which maintains a referenc
 All the State objects implement a common State interface (a struct in case of C implementation), which defines the set of operations that can be performed, regardless of the current state. This also ensures that the Context can interact with states in a uniform way without knowing anything of each state internals.
 
 ![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/07eab901747616e163462bc340f70a43e3d18649/docs/uml.svg)
+
+
+Menu Demo:
+
+![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/a3f1c128da780349ae0df285afaaeb2df730da36/docs/menu_demo.gif)
