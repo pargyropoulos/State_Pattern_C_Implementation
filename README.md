@@ -8,7 +8,7 @@ All the State objects implement a common State interface (a struct in case of C 
 
 The following UML diagram illustrates the FSM’s structure:
 
-![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/6ad6dc39a6e3a8a15d34cbcc363e256bdb4159f0/docs/uml.svg)
+![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/1792235ff1d347cd03872fe1bd22fa7721329e3f/docs/uml.svg)
 
 
 ## Menu Demo:
