@@ -125,7 +125,7 @@
       <text x="2" xml:space="preserve" y="29" clip-path="url(#clipPath8)" stroke="none">+onHardwareEvent(CurrentState : State**, event : button_event_t) : void</text>
     </g>
     <g font-size="11px" transform="translate(589,326)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1">
-      <text x="112" xml:space="preserve" y="12" clip-path="url(#clipPath9)" stroke="none">Stuct State_Options_Nav</text>
+      <text x="112" xml:space="preserve" y="12" clip-path="url(#clipPath9)" stroke="none">Struct State_Options_Nav</text>
     </g>
     <g fill-opacity="1" text-rendering="geometricPrecision" stroke="black" stroke-linecap="butt" transform="translate(205,326)" stroke-miterlimit="0" stroke-opacity="1" fill="black" font-weight="bold" font-family="sans-serif" stroke-linejoin="round" font-size="11px" image-rendering="optimizeQuality">
       <rect fill="none" x="0" width="359" height="72" y="0" clip-path="url(#clipPath10)"/>
