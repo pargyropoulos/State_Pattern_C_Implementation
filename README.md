@@ -11,6 +11,6 @@ The following UML diagram illustrates the FSM’s structure:
 ![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/6ad6dc39a6e3a8a15d34cbcc363e256bdb4159f0/docs/uml.svg)
 
 
-Menu Demo:
+## Menu Demo:
 
 ![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/a3f1c128da780349ae0df285afaaeb2df730da36/docs/menu_demo.gif)
