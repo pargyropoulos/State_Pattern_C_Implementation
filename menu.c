@@ -24,7 +24,7 @@ static void ExitMenu(void);
 static const menu_item_t menu[]={
     {"Set Clock",   &Clock,         NULL},
     {"Set Date",    &Date,          NULL},
-    {"Sub Menu",&ShowSubMenu,   NULL},
+    {"Sub Menu",    &ShowSubMenu,   NULL},
     {"Exit",        &ExitMenu,      NULL}
 };
 
