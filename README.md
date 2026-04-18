@@ -7,8 +7,7 @@ The overall coordination is performed by the Context, which maintains a referenc
 All the State objects implement a common State interface (a struct in case of C implementation), which defines the set of operations that can be performed, regardless of the current state. This also ensures that the Context can interact with states in a uniform way without knowing anything of each state internals.
 
 The following UML diagram illustrates the FSM’s structure:
-
-![image](https://github.com/pargyropoulos/State_Pattern_C_Implementation/blob/1792235ff1d347cd03872fe1bd22fa7721329e3f/docs/uml.svg)
+![UML Diagram](docs/uml.svg)
 
 
 ## Menu Demo:
